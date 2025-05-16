@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal
+👋 Hi, I’m Vishal
 
 <!---
 vishalkapoor-bolt/vishalkapoor-bolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
